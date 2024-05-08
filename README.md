@@ -3,15 +3,56 @@
     "pre_download_game":null,
     "latest":{
         "name":"",
-        "version":"1.4.0",
-        "path":"https://autopatchcn.bhsr.com/client/cn/20230926141222_ZKWHBONxYlx8PGYQ/StarRail_1.4.0.zip",
-        "size":"36588535476",
-        "md5":"4d4073654720207497268308c2fba4f7",
+        "version":"2.2.0",
+        "path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/StarRail_2.2.0.zip",
+        "size":"67929687248",
+        "md5":"bce27503f6f93b9e4846b84d28660531",
         "entry":"StarRail.exe",
-        "voice_packs":[],
-        "decompressed_path":"https://autopatchcn.bhsr.com/client/cn/20230926141222_ZKWHBONxYlx8PGYQ/unzip",
+        "voice_packs":[
+            {
+                "language":"zh-cn",
+                "name":"",
+                "path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/Chinese.zip",
+                "size":"9107127008",
+                "md5":"df10fae26649d570744d49f6e3d31a20",
+                "package_size":"4548320624"
+            },
+            {
+                "language":"zh-tw",
+                "name":"",
+                "path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/Chinese.zip",
+                "size":"9107127008",
+                "md5":"df10fae26649d570744d49f6e3d31a20",
+                "package_size":"4548320624"
+            },
+            {
+                "language":"en-us",
+                "name":"",
+                "path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/English.zip",
+                "size":"10868361126",
+                "md5":"5c1e42dfd9911c2d45eb34d852a79919",
+                "package_size":"5428937683"
+            },
+            {
+                "language":"ja-jp",
+                "name":"",
+                "path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/Japanese.zip",
+                "size":"11592230978",
+                "md5":"b2bfda217280526652e04afb4253bcd0",
+                "package_size":"5790872609"
+            },
+            {
+                "language":"ko-kr",
+                "name":"",
+                "path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/Korean.zip",
+                "size":"9186374000",
+                "md5":"01cf2ac132200323eeaa43d7be7c8456",
+                "package_size":"4587944120"
+            }
+        ],
+        "decompressed_path":"https://autopatchcn.bhsr.com/client/cn/20240425223452_X67JiqezhqpvBZW8/PC/unzip",
         "segments":[],
-        "package_size":"18289024858"
+        "package_size":"33959600744"
     },
     "deprecated_packages":[
         "",
@@ -62,6 +103,18 @@
             "decompressed_path":"",
             "segments":[],
             "package_size":"16288804768"
+        },
+        {
+            "name":"",
+            "version":"1.4.0",
+            "path":"https://autopatchcn.bhsr.com/client/cn/20230926141222_ZKWHBONxYlx8PGYQ/StarRail_1.4.0.zip",
+            "size":"36588535476",
+            "md5":"4d4073654720207497268308c2fba4f7",
+            "entry":"StarRail.exe",
+            "voice_packs":[],
+            "decompressed_path":"https://autopatchcn.bhsr.com/client/cn/20230926141222_ZKWHBONxYlx8PGYQ/unzip",
+            "segments":[],
+            "package_size":"18289024858"
         }
     ]
 }
